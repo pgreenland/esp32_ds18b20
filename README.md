@@ -9,3 +9,5 @@ https://github.com/pgreenland/esp32_one_wire_uart
 See the example application which makes use of the repository above and this one to communicate with one or more temperature sensors:
 
 https://github.com/pgreenland/esp32_ds18b20_example
+
+For more information see my associated blog post: https://www.quantulum.co.uk/blog/1-wire-with-uart-on-esp-32
